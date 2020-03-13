@@ -52,14 +52,14 @@ desk1-xyz-ic-person| 54.1956 | [ROS bag](http://gofile.me/3REyI/6HZwfz5dy)
 
 Sequence Name | Duration(s) | Download link
 ------------ | ------------- | ---
-desk1-halfsphere-dim| 33.8101 | [ROS bag](http://gofile.me/3REyI/ziCAII1EQ)
-desk1-halfsphere-dim2| 33.8101 | [ROS bag](http://gofile.me/3REyI/Eajzct1Oi)
-desk1-rpy-dim| 33.8101 | [ROS bag](http://gofile.me/3REyI/XouKWswWr)
-desk1-rpy-dim2| 33.8101 | [ROS bag](http://gofile.me/3REyI/SGB4ej54e)
-desk1-static-dim| 33.8101 | [ROS bag](http://gofile.me/3REyI/PFXXJHRoE)
-desk1-static-dim2| 33.8101 | [ROS bag](http://gofile.me/3REyI/4DugILwLQ)
-desk1-xyz-dim| 33.8101 | [ROS bag](http://gofile.me/3REyI/KuX7XLNFQ)
-desk1-xyz-dim2| 33.8101 | [ROS bag](http://gofile.me/3REyI/N8srviLGn)
+desk1-halfsphere-dim| 69.2399 | [ROS bag](http://gofile.me/3REyI/ziCAII1EQ)
+desk1-halfsphere-dim2| 67.8903 | [ROS bag](http://gofile.me/3REyI/Eajzct1Oi)
+desk1-rpy-dim| 48.0199 | [ROS bag](http://gofile.me/3REyI/XouKWswWr)
+desk1-rpy-dim2| 52.5703 | [ROS bag](http://gofile.me/3REyI/SGB4ej54e)
+desk1-static-dim| 21.5306 | [ROS bag](http://gofile.me/3REyI/PFXXJHRoE)
+desk1-static-dim2| 19.4200 | [ROS bag](http://gofile.me/3REyI/4DugILwLQ)
+desk1-xyz-dim| 53.6903 | [ROS bag](http://gofile.me/3REyI/KuX7XLNFQ)
+desk1-xyz-dim2| 53.8106 | [ROS bag](http://gofile.me/3REyI/N8srviLGn)
 
 ## Calibration Data
 
@@ -71,4 +71,4 @@ desk1-xyz-dim2| 33.8101 | [ROS bag](http://gofile.me/3REyI/N8srviLGn)
 
 ## Evaluation Tool
 
-We provide MATLAB and python tools that have motion estimation function for visual odometry or SLAM works. ([Github Page](https://github.com/weichnn/Evaluation_Tools))
+The MATLAB and python tools ([Github Page](https://github.com/weichnn/Evaluation_Tools)) for visual odometry or SLAM works.
