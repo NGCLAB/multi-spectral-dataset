@@ -1,0 +1,1 @@
+## This folder is for pictures used in root README.md.
