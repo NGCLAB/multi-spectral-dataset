@@ -38,7 +38,7 @@ Sequence Name | Duration(s) | link(Synology) | link（Baidu Pan）
 ------------ | ------------- | -----|-------
 desk1-rpy-ic | 62.8403 | [ROS bag](http://gofile.me/3REyI/oBOEOZFDI)| 提取码: vat8 [链接](https://pan.baidu.com/s/1kd-pplif5so9ToHlF-9oEg)
 desk1-halfsphere-ic | 73.5899 | [ROS bag](http://gofile.me/3REyI/BMh1xxImI)| 提取码: 8vti [链接](https://pan.baidu.com/s/1LoJLm3905GdjMqQwKHxdFQ)
-desk1-static-ic | 27.6798 | [ROS bag](http://gofile.me/3REyI/tboURe3jz)| 提取码: 8vti [链接](https://pan.baidu.com/s/1LoJLm3905GdjMqQwKHxdFQ)
+desk1-static-ic | 27.6798 | [ROS bag](http://gofile.me/3REyI/tboURe3jz)| 提取码: tf7k [链接]https://pan.baidu.com/s/1jR5z3_J2BTzqPsvQb8X2og)
 desk1-static-ic-lampon | 24.7401 | [ROS bag](http://gofile.me/3REyI/LsaAFtk1q)| 提取码: 9k6t [链接](https://pan.baidu.com/s/1xak1SPhGB5gCqunLGFSAaA)
 desk1-xyz-ic | 67.2905 | [ROS bag](http://gofile.me/3REyI/y1GluJbxQ)| 提取码: gac5 [链接](https://pan.baidu.com/s/1Ts8B-GPLcbhYQag9VqSrKA)
 desk2-circle-ic | 30.1300 | [ROS bag](http://gofile.me/3REyI/h3u2P26rw)| 提取码: ccgx [链接](https://pan.baidu.com/s/1h6RVlDp3ueezHyBEHyiUsQ)
