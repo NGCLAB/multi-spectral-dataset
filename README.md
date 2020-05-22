@@ -2,6 +2,8 @@
 
 ## Introduction
 
+![setup](images/setup.png)
+
 The multi-spectral dataset is provided for evaluating multi-spectral motion estimation methods. The dataset includes a set of sequences in diverse illumination conditions obtained on a setup consisting of a standard camera, an LWIR camera, and a Kinect2. In the dataset, each sequence contains the color, thermal, and depth images, as well as the ground-truth trajectory. The color and thermal images (640 x 480) are captured at 32Hz on hardware-synchronized devices. The depth images are provided by the Kinect2 camera at 30Hz, enabling the projection of one image onto another. The ground-truth poses are recorded from a motion capture system at 120Hz. All sensors are calibrated carefully for higher accuracy.
 
 ### Sequences
