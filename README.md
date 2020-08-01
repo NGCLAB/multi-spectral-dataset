@@ -61,7 +61,7 @@ desk1-rpy-dim2| 52.5703 | [ROS bag](http://gofile.me/3REyI/SGB4ej54e)| 提取码
 desk1-static-dim| 21.5306 | [ROS bag](http://gofile.me/3REyI/PFXXJHRoE)| 提取码: vsgf [链接](https://pan.baidu.com/s/1b92QhEeKpOVx9mdN6dwfRQ)
 desk1-static-dim2| 19.4200 | [ROS bag](http://gofile.me/3REyI/4DugILwLQ)| 提取码: yp49 [链接](https://pan.baidu.com/s/1uzMaNTRXVu-Q5dupXswXUg)
 desk1-xyz-dim| 53.6903 | [ROS bag](http://gofile.me/3REyI/KuX7XLNFQ)| 提取码: uqir [链接](https://pan.baidu.com/s/15PB0MPjzNGRSIl1qMo4itA)
-desk1-xyz-dim2| 53.8106 | [ROS bag](http://gofile.me/3REyI/N8srviLGn)| 提取码: djkd [链接](hhttps://pan.baidu.com/s/1-EuP3azpj6k_1XxjI980CA)
+desk1-xyz-dim2| 53.8106 | [ROS bag](http://gofile.me/3REyI/N8srviLGn)| 提取码: djkd [链接](https://pan.baidu.com/s/1-EuP3azpj6k_1XxjI980CA)
 
 ## Calibration Data
 
