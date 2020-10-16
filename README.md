@@ -14,7 +14,7 @@ The multi-spectral dataset is provided for evaluating multi-spectral motion esti
 
 All sensors are calibrated carefully for higher accuracy.
 
-##  Download
+## Download
 
 Download link: [click here](data.md)
 
@@ -32,7 +32,7 @@ A simple example ([Github Page](https://github.com/weichnn/bag_extractor)) of ho
 ## Mission
 
 Visual-based navigation(VN) systems are one of the most fundamental capabilities necessary for autonomous systems. Due to the ubiquitous availability of images, VN systems have become an important component of many autonomous systems. Impressive progress has been made with both geometric-based methods and learning-based methods for standard cameras. However,  in scenarios such as data center inspection, firefighting, and rescue, developing robust and reliable VN systems for real-world applications is still challenging because standard cameras cannot provide sufficient information due to inadequate color textures, smog cover, or dim illumination. Therefore, adding long-wave infrared (LWIR) cameras can complement the texture with information irrelevant to illumination is a good solution. To evaluate the performance of various multi-spectral SLAM and odometry methods involving multi-spectral sources, a complete dataset with ground truth is necessary.
-Compared with current popular datasets for stereo standard cameras, such as KITTI, TUM datasets, and EuRoC MAV, the availability of a hardware-synchronization multi-spectral dataset is minimal.
+Compared with current popular datasets for stereo standard cameras, such as KITTI, TUM datasets, and EuRoC MAV, the availability of a hardware-synchronized multi-spectral dataset is minimal.
 We collect a large dataset using a hardware-synchronized multi-spectral device, Kinect2, Xsens IMU, and a motion capture system. Our dataset's special goal is to focus on the data association between different modalities. State-of-the-art VN systems struggle to estimate the camera ego-motion in our dataset and get lost on most challenging sequences. Besides, we develop an automatic depth filling pipeline, which allows us to get static stereo references.
 
 The four most important features of our dataset are:
@@ -42,6 +42,10 @@ The four most important features of our dataset are:
 * Challenging Scenes with multiple types of modalities
 
 ## Dataset features
+
+## hardware-synchronized multi-spectral images
+
+The multi-spectral device consists of a standard camera and an LWIR camera. The former is an ImageSource DFK 22BUC03. It uses a global shutter and captures 640×480 RGB images at 32 Hz. The LWIR camera is an Optris PI 640, which produces 16-bit 640×480 thermal images and outputs a frame-sync trigger signal at 32Hz. This frame-sync trigger signal is set as the external trigger signal via a hardware connection between both cameras. Therefore, this platform can provide synchronized color and thermal images at 32Hz. The exposure time is set to the value less than the sensor synchronization period, which ensures that the captured images are at the same frequency.
 
 ### Scenes
 
