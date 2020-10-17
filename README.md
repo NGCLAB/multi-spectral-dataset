@@ -35,7 +35,7 @@ Visual-based navigation(VN) systems are one of the most fundamental capabilities
 Compared with current popular datasets for stereo standard cameras, such as KITTI, TUM datasets, and EuRoC MAV, the availability of a hardware-synchronized multi-spectral dataset is minimal.
 We collect a large dataset using a hardware-synchronized multi-spectral device, Kinect2, Xsens IMU, and a motion capture system. Our dataset's special goal is to focus on the data association between different modalities. State-of-the-art VN systems struggle to estimate the camera ego-motion in our dataset and get lost on most challenging sequences. Besides, we develop an automatic depth filling pipeline, which allows us to get static stereo references.
 
-The four most important features of our dataset are:
+The three most important features of our dataset are:
 
 * hardware-synchronized visible and thermal images
 * Diverse sequences for debugging
