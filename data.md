@@ -33,6 +33,8 @@ We provide several types of sequences for evaluating the multi-spectral nvigatio
 - Other:
     - *dy*: a person is walking around in front of the setup to add disturbances.
     - *person*: a person sitting in front of a desk to provide striking contrasts in textures in the thermal images.
+    - *day*: the data is collected before sunset
+    - *night*: the data is collected before sunset
 
 ### The environment under bright illumination
 
