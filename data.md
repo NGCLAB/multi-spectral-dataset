@@ -34,31 +34,31 @@ We provide several types of sequences for evaluating the multi-spectral nvigatio
     - *dy*: a person is walking around in front of the setup to add disturbances.
     - *person*: a person sitting in front of a desk to provide striking contrasts in textures in the thermal images.
 
-#### Bright illumination
+### Bright illumination
 
-Sequence Name | Duration(s) | link(Synology) | link（Baidu Pan）| Difficulty
------------- | ------------- | ------------- | ------------- | ------
-desk1-halfsphere | 68.3495 | [ROS bag](http://gofile.me/3REyI/2i5Ftd4RJ) | 提取码: ztbz [链接](https://pan.baidu.com/s/1RdSZAqfG2uEXCcZoOGvzyA) | Easy
-desk1-rpy | 61.400 | [ROS bag](http://gofile.me/3REyI/5uH1tqgjy) | 提取码: myuc [链接](https://pan.baidu.com/s/1J13QTOwiKfvgmsQyAvBcTw) | Easy
-desk1-static | 25.2803 | [ROS bag](http://gofile.me/3REyI/kHp4vRcmO)| 提取码: rm96 [链接](https://pan.baidu.com/s/1csVeoQXXPHALIgJ0Yw8x_g) | Easy
-desk1-xyz | 48.5500 | [ROS bag](http://gofile.me/3REyI/YlQHZfX45)| 提取码: mpuk [链接](https://pan.baidu.com/s/18FbnK_qWJVDudngCgWqhaw) | Easy
-desk2-circle | 34.5399 | [ROS bag](http://gofile.me/3REyI/KOdud2n2N)| 提取码: 2dq5 [链接](https://pan.baidu.com/s/1RWvY7-4HP5rdzP7irQoAyQ) | Easy
-desk2-halfsphere | 44.3201 | [ROS bag](http://gofile.me/3REyI/ooDVJCWgr)| 提取码: 5c9m [链接](https://pan.baidu.com/s/1D5hs8Z8tVs9IEXLXwPIrqA) | Easy
-desk2-rpy | 47.7005 | [ROS bag](http://gofile.me/3REyI/lLaYCERxm)| 提取码: 936f [链接](https://pan.baidu.com/s/1ywyE9gRqBydQf1xslJfFng) | Easy
-desk2-static | 33.3701 | [ROS bag](http://gofile.me/3REyI/Ph9SFPwB2)| 提取码: uyu2 [链接](https://pan.baidu.com/s/1e3mQdkdLQ6maMt2wIMsLAQ) | Easy
-desk2-xyz | 44.9602 | [ROS bag](http://gofile.me/3REyI/kN4lCw1Rc)| 提取码: 9jt8 [链接](https://pan.baidu.com/s/1l4WQ3Pp1IXQLyntHzS85ug) | Easy
-desk1-circle-person | 33.8101 | [ROS bag](http://gofile.me/3REyI/kplECtUMo)| 提取码: bhgk [链接](https://pan.baidu.com/s/1kwfJoD_rowuJJwrXA-3NcQ) | Easy
-desk1-halfsphere-person | 76.9798 | [ROS bag](http://gofile.me/3REyI/cA0yfUnLd)| 提取码: i827 [链接](https://pan.baidu.com/s/1O8nVUQcXMTX6BdJFYoiPqQ) | Easy
-desk1-rpy-person | 60.0997 | [ROS bag](http://gofile.me/3REyI/UVH9dyS6P)| 提取码: d2di [链接](https://pan.baidu.com/s/1_0SNWvMWEoFOmIhs59Tasg) | Easy
-desk1-rpy-person-slow | 59.5304 | [ROS bag](http://gofile.me/3REyI/zfDZx30hz)| 提取码: queg [链接](https://pan.baidu.com/s/1lPgHpVdropFhxzd0hiMucQ) | Easy
-desk1-static-person | 19.9794 | [ROS bag](http://gofile.me/3REyI/HUIivGkp0)| 提取码: j94s [链接](https://pan.baidu.com/s/18q0ukNwTTDojDzkk5N-TaQ) | Easy
-desk1-xyz-person| 51.1640 | [ROS bag](http://gofile.me/3REyI/jAhTahEN4)| 提取码: 69ue [链接](https://pan.baidu.com/s/10mHosWzfCEqnSTd2tTmNRg) | Easy
-desk1-halfsphere-dy | 64.0704 | [ROS bag](http://gofile.me/3REyI/iXXNl3QFB)| 提取码: kfjj [链接](https://pan.baidu.com/s/1hQrc5oPevW3aALahjFQ4YQ) | Easy
-desk1-rpy-dy | 48.4592 | [ROS bag](http://gofile.me/3REyI/r86csUhd9)| 提取码: gced [链接](https://pan.baidu.com/s/1ooc0NKylGw-n94OhIXGZPQ) | Easy
-desk1-static-dy | 24.9294 | [ROS bag](http://gofile.me/3REyI/F8BLNAo1Q)| 提取码: s4ye [链接](https://pan.baidu.com/s/136gRHzqtChQOCZNyvlcrbQ) | Easy
-desk1-xyz-dy | 48.7687 | [ROS bag](http://gofile.me/3REyI/pkjY6oRqA)| 提取码: 3axs [链接](https://pan.baidu.com/s/1SaskfehN43sPdsiYGfOYhg) | Easy
+Sequence Name | Duration(s) | Size  | link(Synology) | link（Baidu Pan）| Difficulty
+------------ | ------------- | ------------- | ------------- | ------------- | ------
+desk1-halfsphere | 68.3495 | 5.18 GB | [ROS bag](http://gofile.me/3REyI/2i5Ftd4RJ) | 提取码: ztbz [链接](https://pan.baidu.com/s/1RdSZAqfG2uEXCcZoOGvzyA) | Easy
+desk1-rpy | 61.400 | 7.32 GB | [ROS bag](http://gofile.me/3REyI/5uH1tqgjy) | 提取码: myuc [链接](https://pan.baidu.com/s/1J13QTOwiKfvgmsQyAvBcTw) | Easy
+desk1-static | 25.2803 | 3.03 GB | [ROS bag](http://gofile.me/3REyI/kHp4vRcmO)| 提取码: rm96 [链接](https://pan.baidu.com/s/1csVeoQXXPHALIgJ0Yw8x_g) | Easy
+desk1-xyz | 48.5500 | 5.93 GB | [ROS bag](http://gofile.me/3REyI/YlQHZfX45)| 提取码: mpuk [链接](https://pan.baidu.com/s/18FbnK_qWJVDudngCgWqhaw) | Easy
+desk2-circle | 34.5399 | 3.81 GB | [ROS bag](http://gofile.me/3REyI/KOdud2n2N)| 提取码: 2dq5 [链接](https://pan.baidu.com/s/1RWvY7-4HP5rdzP7irQoAyQ) | Easy
+desk2-halfsphere | 44.3201 | 5.18 GB | [ROS bag](http://gofile.me/3REyI/ooDVJCWgr)| 提取码: 5c9m [链接](https://pan.baidu.com/s/1D5hs8Z8tVs9IEXLXwPIrqA) | Easy
+desk2-rpy | 47.7005 | 5.52 GB | [ROS bag](http://gofile.me/3REyI/lLaYCERxm)| 提取码: 936f [链接](https://pan.baidu.com/s/1ywyE9gRqBydQf1xslJfFng) | Easy
+desk2-static | 33.3701 | 3.99 GB| [ROS bag](http://gofile.me/3REyI/Ph9SFPwB2)| 提取码: uyu2 [链接](https://pan.baidu.com/s/1e3mQdkdLQ6maMt2wIMsLAQ) | Easy
+desk2-xyz | 44.9602 | 3.99GB |[ROS bag](http://gofile.me/3REyI/kN4lCw1Rc)| 提取码: 9jt8 [链接](https://pan.baidu.com/s/1l4WQ3Pp1IXQLyntHzS85ug) | Easy
+desk1-circle-person | 33.8101 | 4.07 GB | [ROS bag](http://gofile.me/3REyI/kplECtUMo)| 提取码: bhgk [链接](https://pan.baidu.com/s/1kwfJoD_rowuJJwrXA-3NcQ) | Easy
+desk1-halfsphere-person | 76.9798  | 9.37 GB| [ROS bag](http://gofile.me/3REyI/cA0yfUnLd)| 提取码: i827 [链接](https://pan.baidu.com/s/1O8nVUQcXMTX6BdJFYoiPqQ) | Easy
+desk1-rpy-person | 60.0997 | 7.10 GB | [ROS bag](http://gofile.me/3REyI/UVH9dyS6P)| 提取码: d2di [链接](https://pan.baidu.com/s/1_0SNWvMWEoFOmIhs59Tasg) | Easy
+desk1-rpy-person-slow | 59.5304 | 6.93 GB |[ROS bag](http://gofile.me/3REyI/zfDZx30hz)| 提取码: queg [链接](https://pan.baidu.com/s/1lPgHpVdropFhxzd0hiMucQ) | Easy
+desk1-static-person | 19.9794 | 2.14 GB| [ROS bag](http://gofile.me/3REyI/HUIivGkp0)| 提取码: j94s [链接](https://pan.baidu.com/s/18q0ukNwTTDojDzkk5N-TaQ) | Easy
+desk1-xyz-person| 51.1640 | 6.23 GB | [ROS bag](http://gofile.me/3REyI/jAhTahEN4)| 提取码: 69ue [链接](https://pan.baidu.com/s/10mHosWzfCEqnSTd2tTmNRg) | Easy
+desk1-halfsphere-dy | 64.0704 |7.28 GB| [ROS bag](http://gofile.me/3REyI/iXXNl3QFB)| 提取码: kfjj [链接](https://pan.baidu.com/s/1hQrc5oPevW3aALahjFQ4YQ) | Easy
+desk1-rpy-dy | 48.4592 | 5.48 GB | [ROS bag](http://gofile.me/3REyI/r86csUhd9)| 提取码: gced [链接](https://pan.baidu.com/s/1ooc0NKylGw-n94OhIXGZPQ) | Easy
+desk1-static-dy | 24.9294 | 2.81 GB | [ROS bag](http://gofile.me/3REyI/F8BLNAo1Q)| 提取码: s4ye [链接](https://pan.baidu.com/s/136gRHzqtChQOCZNyvlcrbQ) | Easy
+desk1-xyz-dy | 48.7687 | 5.38 GB | [ROS bag](http://gofile.me/3REyI/pkjY6oRqA)| 提取码: 3axs [链接](https://pan.baidu.com/s/1SaskfehN43sPdsiYGfOYhg) | Easy
 
-#### Varing illumination
+### Varing illumination
 
 Sequence Name | Duration(s) | link(Synology) | link（Baidu Pan）| Difficulty
 ------------ | ------------- | -----|----------- | ------
@@ -76,7 +76,7 @@ desk1-rpy-ic-person | 56.2300 | [ROS bag](http://gofile.me/3REyI/l3nxmDunn)| 提
 desk1-static-ic-person| 33.8796 | [ROS bag](http://gofile.me/3REyI/6tbQq7jpB)| 提取码: 9vhm [链接](https://pan.baidu.com/s/1biCeEAFBaNpP0ypHxCltfA) | Hard
 desk1-xyz-ic-person| 54.1956 | [ROS bag](http://gofile.me/3REyI/6HZwfz5dy)| 提取码: xp9u [链接](https://pan.baidu.com/s/1gJ4Z5WlSBIvlmmuY2vCDEA) | Hard
 
-#### Dim illumination
+### Dim illumination
 
 Sequence Name | Duration(s) | link(Synology) | link（Baidu Pan）| Difficulty
 ------------ | ------------- | ----|-------|-------
