@@ -81,6 +81,8 @@ Novel methods can be evaluated in environments with different illumination condi
 
 Email us if you have any questions about the data source. You can also create issues on the associated repotores.
 
+Yu Zhang - (zhangyu80 [at] zju [dot] edu [dot] cn)
+
 Weichen Dai - (Weichendai [at] hotmail [dot] com)
 
-Yu Zhang - (zhangyu80 [at] zju [dot] edu [dot] cn)
+
