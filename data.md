@@ -30,6 +30,9 @@ We provide several types of sequences for evaluating the multi-spectral nvigatio
     - *rpy*: the camera only rotates with roll, pitch, and yaw motion.
     - *circle*: the camera moves approximately around a circle.
     - *static*: the camera is nearly motionless.
+- Other:
+    - *dy*: a person is walking around in front of the setup to add disturbances.
+    - *person*: a person sitting in front of a desk to provide striking contrasts in textures in the thermal images.
 
 #### Bright illumination
 
