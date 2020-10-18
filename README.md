@@ -45,7 +45,7 @@ The three most important features of our dataset are:
 
 ## Dataset features
 
-## hardware-synchronized multi-spectral images
+### hardware-synchronized multi-spectral images
 
 The multi-spectral device consists of a standard camera and an LWIR camera. The former is an ImageSource DFK 22BUC03. It uses a global shutter and captures 640×480 RGB images at 32 Hz. The LWIR camera is an Optris PI 640, which produces 16-bit 640×480 thermal images and outputs a frame-sync trigger signal at 32Hz. This frame-sync trigger signal is set as the external trigger signal via a hardware connection between both cameras. Therefore, this platform can provide synchronized color and thermal images at 32Hz. The exposure time is set to the value less than the sensor synchronization period, which ensures that the captured images are at the same frequency.
 
