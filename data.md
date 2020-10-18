@@ -1,15 +1,3 @@
-## Calibration Data
-
-[Download link（Synology）](http://gofile.me/3REyI/kUsHfzy4h)
-
-[Download link（Baidu Pan）](https://pan.baidu.com/s/1DSh0r_CxN8FoRVxf-V5uUg)(pyue)
-
-## Calibration files
-
-[Download link（Synology）](http://gofile.me/3REyI/GfYCexfS3)
-
-[Download link（Baidu Pan）](https://pan.baidu.com/s/1t1ViINDmI8Mv3KVICzXNRQ)(r8vq)
-
 ## Dataset sequences
 
 We provide several types of sequences for evaluating the multi-spectral nvigation systems. The naming is explained below. 
