@@ -16,7 +16,9 @@ All sensors are calibrated carefully for higher accuracy.
 
 ## Download
 
-Download link: [click here](data.md)
+Data: [click here](data.md)
+
+<!-- Calibration: [click here](calibration.md) -->
 
 ## Tools
 

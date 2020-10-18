@@ -95,15 +95,15 @@ desk1-xyz-dim2| 53.81 | 5.52 | [ROS bag](http://gofile.me/3REyI/N8srviLGn)| 提�
 
 Sequence Name  | Size(GB)| link(Synology) | link（Baidu Pan）| Difficulty
 ------------ | -------|------ | ----|-------|-------
-magistrale-23-day1 | 28.70 | [ROS bag](http://gofile.me/3REyI/F6j14ZBRW)| 提取码: wi6j [链接](https://pan.baidu.com/s/1_Kfho-gC4cjtUT9kFJ-SFg) | Medium
-magistrale-23-day2 | 27.89 | [ROS bag](http://gofile.me/3REyI/aCGULn8GO)| 提取码: dbx3 [链接](https://pan.baidu.com/s/1KtL1arsCSwAcguUopvRQeg)| Medium
-magistrale-23-night1 | 24.71 |[ROS bag](http://gofile.me/3REyI/IQfOq10R6)| 提取码: hgf5 [链接](https://pan.baidu.com/s/1iEKKmHAbIfJqyQq9OSdHiA)| Medium
-magistrale-23-night2 | 27.91 | [ROS bag](http://gofile.me/3REyI/n5C1mv0FA)| 提取码: r16u [链接](https://pan.baidu.com/s/1glYupnZT-gZfyhqBo1HcHg)| Medium
-magistrale-24-night1 | 33.45 | [ROS bag](http://gofile.me/3REyI/Zb4Tz3zcH)| 提取码: 4v3f [链接](https://pan.baidu.com/s/1t_hAaeN7ynaN_SLkG_SnUA)| Medium
-magistrale-24-night2 | 35.09 | [ROS bag](http://gofile.me/3REyI/WNtF5g3Mx)| 提取码: uq7k [链接](https://pan.baidu.com/s/1yAJ1iP5GXIZVHjI-9xEWRQ)| Medium
-magistrale-24-night3 | 35.54 | [ROS bag](http://gofile.me/3REyI/1tm1Zc3XC)| 提取码: p9wk [链接](https://pan.baidu.com/s/1jM114cUS9x80zXUKwvqLmQ)| Medium
-magistrale-lift-23-night | 15.64 | [ROS bag](http://gofile.me/3REyI/kdswzdGMn)| 提取码: 5muf [链接](https://pan.baidu.com/s/1Ppc2k1U8Vl7PEDHUr67LEw)| Medium
-magistrale-lift-24-night | 23.35 | [ROS bag](http://gofile.me/3REyI/AvNHt2cXz)| 提取码: ksqz [链接](https://pan.baidu.com/s/1HRhO7cjcEev0iftiqaG8QA)| Medium
-magistrale-lift-234-night | 29.42 | [ROS bag](http://gofile.me/3REyI/X7KQhAb70)| 提取码: uxut [链接](https://pan.baidu.com/s/1IJGrIv6n8j6IpqopN8LIbw)| Medium
-outdoor-night1 | 60.05 | [ROS bag](http://gofile.me/3REyI/6YBPy9fnN)| 提取码: jyej [链接](https://pan.baidu.com/s/1Bu3-H87_Bd97Dcazb4todw)| Medium
-outdoor-night2 | 61.25 | [ROS bag](http://gofile.me/3REyI/LDHS4vGRf)| 提取码: s12u [链接](https://pan.baidu.com/s/1PXDGJlVvwfKlpUIO5sDWEQ)| Medium
+magistrale-23-day1 | 28.70 | [ROS bag](http://gofile.me/3REyI/F6j14ZBRW)| 提取码: wi6j [链接](https://pan.baidu.com/s/1_Kfho-gC4cjtUT9kFJ-SFg) | Crazy
+magistrale-23-day2 | 27.89 | [ROS bag](http://gofile.me/3REyI/aCGULn8GO)| 提取码: dbx3 [链接](https://pan.baidu.com/s/1KtL1arsCSwAcguUopvRQeg)| Crazy
+magistrale-23-night1 | 24.71 |[ROS bag](http://gofile.me/3REyI/IQfOq10R6)| 提取码: hgf5 [链接](https://pan.baidu.com/s/1iEKKmHAbIfJqyQq9OSdHiA)| Crazy
+magistrale-23-night2 | 27.91 | [ROS bag](http://gofile.me/3REyI/n5C1mv0FA)| 提取码: r16u [链接](https://pan.baidu.com/s/1glYupnZT-gZfyhqBo1HcHg)| Crazy
+magistrale-24-night1 | 33.45 | [ROS bag](http://gofile.me/3REyI/Zb4Tz3zcH)| 提取码: 4v3f [链接](https://pan.baidu.com/s/1t_hAaeN7ynaN_SLkG_SnUA)| Crazy
+magistrale-24-night2 | 35.09 | [ROS bag](http://gofile.me/3REyI/WNtF5g3Mx)| 提取码: uq7k [链接](https://pan.baidu.com/s/1yAJ1iP5GXIZVHjI-9xEWRQ)| Crazy
+magistrale-24-night3 | 35.54 | [ROS bag](http://gofile.me/3REyI/1tm1Zc3XC)| 提取码: p9wk [链接](https://pan.baidu.com/s/1jM114cUS9x80zXUKwvqLmQ)| Crazy
+magistrale-lift-23-night | 15.64 | [ROS bag](http://gofile.me/3REyI/kdswzdGMn)| 提取码: 5muf [链接](https://pan.baidu.com/s/1Ppc2k1U8Vl7PEDHUr67LEw)| Crazy
+magistrale-lift-24-night | 23.35 | [ROS bag](http://gofile.me/3REyI/AvNHt2cXz)| 提取码: ksqz [链接](https://pan.baidu.com/s/1HRhO7cjcEev0iftiqaG8QA)| Crazy
+magistrale-lift-234-night | 29.42 | [ROS bag](http://gofile.me/3REyI/X7KQhAb70)| 提取码: uxut [链接](https://pan.baidu.com/s/1IJGrIv6n8j6IpqopN8LIbw)| Crazy
+outdoor-night1 | 60.05 | [ROS bag](http://gofile.me/3REyI/6YBPy9fnN)| 提取码: jyej [链接](https://pan.baidu.com/s/1Bu3-H87_Bd97Dcazb4todw)| Crazy
+outdoor-night2 | 61.25 | [ROS bag](http://gofile.me/3REyI/LDHS4vGRf)| 提取码: s12u [链接](https://pan.baidu.com/s/1PXDGJlVvwfKlpUIO5sDWEQ)| Crazy
