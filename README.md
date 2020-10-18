@@ -18,7 +18,7 @@ All sensors are calibrated carefully for higher accuracy.
 
 Data: [click here](data.md)
 
-<!-- Calibration: [click here](calibration.md) -->
+Calibration: [click here](calibration.md)
 
 ## Tools
 

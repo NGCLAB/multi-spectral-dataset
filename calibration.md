@@ -28,7 +28,7 @@ The board provides distinctive squares for both cameras. Because of the active l
 </div>
 
 
-## Registration results of Kinect2
+### Registration results of Kinect2
 
 The yellow box shows the area with wrong depth values. The area in the red box is the edge of the object, which has more significant uncertainty for Kinect2 since the depth changes a lot. Under uncalibrated parameters, the yellow and red boxes show a wrong texture mapping. After calibration, the color and depth data of the object edges are well matched.
 
