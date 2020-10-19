@@ -81,7 +81,7 @@ Novel methods can be evaluated in environments with different illumination condi
 
 ## Contact
 
-Email us if you have any questions about the data source. You can also create issues on the associated repositories.
+Email us if you have any questions about the dataset. You can also create issues on the associated repositories.
 
 Yu Zhang - (zhangyu80 [at] zju [dot] edu [dot] cn)
 
