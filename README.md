@@ -28,7 +28,7 @@ The MATLAB and python tools ([Github Page](https://github.com/weichnn/Evaluation
 
 ### Bag extractor
 
-A simple example ([Github Page](https://github.com/weichnn/bag_extractor)) of how to extract multi-spectal data from bags.
+A simple example ([Github Page](https://github.com/weichnn/bag_extractor)) of how to extract multi-spectal data from bags and how to genarate dense depth images on the standard camera's viewpoint.
 
 
 ## Mission
