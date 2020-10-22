@@ -46,7 +46,7 @@ uint32 flag_state
 
 ### Bag extractor
 
-A example ([Github Page](https://github.com/weichnn/bag_extractor)) of how to extract multi-spectal data from bags.
+A example ([Github Page](https://github.com/weichnn/bag_extractor)) of how to extract multi-spectal data from bags and how to genarate dense depth images on the standard camera's viewpoint.
 
 ## Download link
 
