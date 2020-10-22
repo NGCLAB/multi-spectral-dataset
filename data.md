@@ -44,6 +44,10 @@ Header header
 uint32 flag_state
 ```
 
+### Bag extractor
+
+A example ([Github Page](https://github.com/weichnn/bag_extractor)) of how to extract multi-spectal data from bags.
+
 ## Download link
 
 ### The environment under bright illumination
