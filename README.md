@@ -86,7 +86,7 @@ We develop the required tools for the pipe-line to evaluate the code. For each e
 
 ## Contact
 
-Email us if you have any questions about the dataset. You can also create issues on the associated repositories.
+Email us if you have any questions about the dataset. You can also create issues on the related repositories.
 
 Yu Zhang - (zhangyu80 [at] zju [dot] edu [dot] cn)
 
