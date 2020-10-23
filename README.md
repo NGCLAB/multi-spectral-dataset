@@ -76,8 +76,13 @@ Novel methods can be evaluated in environments with different illumination condi
 <img src="images/overview.png" width="500" />
 </div>
 
-<!-- ### Data process pipeline -->
+### Evaluation pipeline
 
+We develop the required tools for the pipe-line to evaluate the code. For each environment, you can use the Bag_Extractor to extract multi-spectral data for your program. You can also develop your own ROS program and directly subscribe to the needed topic from the ROS bag.  The estimated results should be in a single text file. Each line in the text file contains a single pose. The format of each line is 'timestamp tx ty tz qx qy qz qw'. tx ty tz (3 floats) give the position of the optical center of the standard camera. qx qy qz qw (4 floats) provide the orientation of the optical center of the standard camera in the form of a unit quaternion. Finally, using the provided evaluation tools, the absolute trajectory error (ATE) results can be evaluated with ground-truth.
+
+<div align="center">
+<img src="images/pipline.png" width="600" />
+</div>
 
 ## Contact
 
