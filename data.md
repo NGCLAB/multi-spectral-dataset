@@ -30,14 +30,14 @@ We provide several types of sequences for evaluating the multi-spectral nvigatio
 
  The bag files contain the following message topics:
 
-- **/camera/image_raw (sensor_msgs/Image)**: color images from the standard
+- **/camera/image_raw (sensor_msgs/Image)**: raw color images from the standard
 camera
-- **/optris/thermal_image (sensor_msgs/Image)**: thermal images from the LWIR
+- **/optris/thermal_image (sensor_msgs/Image)**: raw thermal images from the LWIR
 camera
 - **/camera/flag_state (msdi_ros/Flag)**: flag states of the LWIR camera
-- **/kinect2/qhd/image_color_rect (sensor_msgs/Image)**: color images from Kinect2
-- **/kinect2/qhd/image_depth_rect (sensor_msgs/Image)**: depth images from Kinect2
-- **/kinect2/sd/image_ir_rect (sensor_msgs/Image)**: Near infrared (NIR) images from Kinect2
+- **/kinect2/qhd/image_color_rect (sensor_msgs/Image)**: Rectified color images from Kinect2
+- **/kinect2/qhd/image_depth_rect (sensor_msgs/Image)**: Rectified depth images from Kinect2
+- **/kinect2/sd/image_ir_rect (sensor_msgs/Image)**: Rectified near infrared (NIR) images from Kinect2
 - **/imu/data (sensor_msgs/Imu)**: IMU data
 - **/vrpn_client_node/RigidBody/pose (geometry_msgs/PoseStamped)**: raw poses from the motion capture system
 
