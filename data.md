@@ -43,7 +43,7 @@ camera
 
 ### New ROS msg
 
-**msdi_ros/Flag** is a msg defined in this package. It only has two parts:
+**msdi_ros/Flag** is a msg defined in Bag_extractor package([Github Page](https://github.com/weichnn/bag_extractor)). It only has two parts:
 ```
 Header header
 uint32 flag_state
