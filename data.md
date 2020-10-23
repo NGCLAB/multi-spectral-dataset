@@ -1,29 +1,32 @@
-## Dataset sequences
+# Dataset sequences
 
-We provide several types of sequences for evaluating the multi-spectral nvigation systems. The naming is explained below. 
+## Naming
+
+We provide several types of sequences for evaluating the multi-spectral nvigation systems. The naming is explained below. The key words have been bolded.
 
 - Scene: 
-    - *desk* : Sequences in the room with Motion Capture system, where ground truth poses are available for the entire trajectory.
-    - *magistrale* : Sequences featuring a walk around in a university building. Ground truth poses are available for the start and end segments.
-    - *outdoor* : Outdoor sequences. Ground truth poses are available for the start and end segments.
-    - *lift* : Specially changeling sequences which contain the camera leads to different floors via elevator.. Ground truth poses are available for the start and end segments.
+    - **desk**: Sequences in the room with Motion Capture system, where ground truth poses are available for the entire trajectory.
+    - **magistrale**: Sequences featuring a walk around in a university building. Ground truth poses are available for the start and end segments.
+    - **outdoor**: Outdoor sequences. Ground truth poses are available for the start and end segments.
+    - **lift**: Specially changeling sequences which contain the camera leads to different floors via elevator. Ground truth poses are available for the start and end segments.
 - Illumination:
-    - bright : Most *desk* sequences recorded in bright environments,
-    - varing : *ic*: data with lights turned on and off randomly. 
-    - dim : *dim*: data where the scene is dark.
-    - complex : *magistrale* and *outdoor* sequences are recorded under complex illumination.
+    - bright: Most **desk** sequences recorded in bright environments,
+    - varing: **ic** data with lights turned on and off randomly. 
+    - dim: **dim** data where the scene is dark.
+    - complex: **magistrale** and **outdoor** sequences are recorded under complex illumination.
 - Motion: 
-    - *halfsphere* : the camera moves along the trajectory of a halfsphere with a diameter of 1m.
-    - *xyz* : the camera moves approximately along the x, y, and z axes.
-    - *rpy* : the camera only rotates with roll, pitch, and yaw motion.
-    - *circle* : the camera moves approximately around a circle.
-    - *static* : the camera is nearly motionless.
+    - **halfsphere** : the camera moves along the trajectory of a halfsphere with a diameter of 1m.
+    - **xyz** : the camera moves approximately along the x, y, and z axes.
+    - **rpy** : the camera only rotates with roll, pitch, and yaw motion.
+    - **circle** : the camera moves approximately around a circle.
+    - **static** : the camera is nearly motionless.
 - Other:
-    - *dy* : a person is walking around in front of the setup to add disturbances.
-    - *person* : a person sitting in front of a desk to provide striking contrasts in textures in the thermal images.
-    - *day* : the data is collected before sunset
-    - *night* : the data is collected before sunset
+    - **dy** : a person is walking around in front of the setup to add disturbances.
+    - **person** : a person sitting in front of a desk to provide striking contrasts in textures in the thermal images.
+    - **day** : the data is collected before sunset
+    - **night** : the data is collected before sunset
 
+## Topic
 
  The bag files contain the following message topics:
 
@@ -38,13 +41,15 @@ camera
 - **/imu/data (sensor_msgs/Imu)**: IMU data
 - **/vrpn_client_node/RigidBody/pose (geometry_msgs/PoseStamped)**: raw poses from the motion capture system
 
+### New ROS msg
+
 **msdi_ros/Flag** is a msg defined in this package. It only has two parts:
 ```
 Header header
 uint32 flag_state
 ```
 
-### Bag extractor
+## Bag extractor
 
 A example ([Github Page](https://github.com/weichnn/bag_extractor)) of how to extract multi-spectal data from bags and how to genarate dense depth images on the standard camera's viewpoint.
 
