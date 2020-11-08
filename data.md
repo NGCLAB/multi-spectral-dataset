@@ -55,34 +55,36 @@ A example ([Github Page](https://github.com/weichnn/bag_extractor)) of how to ex
 
 ## Download link
 
+We are trying our best to upload the data to Google drive.
+
 ### The environment under bright illumination
 
-Sequence Name | Duration(s) | Size(GB)  | link(Synology) | link（Baidu Pan）| Difficulty
------------- | ------------- | ------------- | ------------- | ------------- | ------
-desk1-halfsphere | 68.34 | 5.18 | [ROS bag](http://gofile.me/3REyI/2i5Ftd4RJ) | 提取码: ztbz [链接](https://pan.baidu.com/s/1RdSZAqfG2uEXCcZoOGvzyA) | Easy
-desk1-rpy | 61.40 | 7.32 | [ROS bag](http://gofile.me/3REyI/5uH1tqgjy) | 提取码: myuc [链接](https://pan.baidu.com/s/1J13QTOwiKfvgmsQyAvBcTw) | Easy
-desk1-static | 25.28 | 3.03 | [ROS bag](http://gofile.me/3REyI/kHp4vRcmO)| 提取码: rm96 [链接](https://pan.baidu.com/s/1csVeoQXXPHALIgJ0Yw8x_g) | Easy
-desk1-xyz | 48.55 | 5.93 | [ROS bag](http://gofile.me/3REyI/YlQHZfX45)| 提取码: mpuk [链接](https://pan.baidu.com/s/18FbnK_qWJVDudngCgWqhaw) | Easy
-desk2-circle | 34.53 | 3.81 | [ROS bag](http://gofile.me/3REyI/KOdud2n2N)| 提取码: 2dq5 [链接](https://pan.baidu.com/s/1RWvY7-4HP5rdzP7irQoAyQ) | Easy
-desk2-halfsphere | 44.32 | 5.18 | [ROS bag](http://gofile.me/3REyI/ooDVJCWgr)| 提取码: 5c9m [链接](https://pan.baidu.com/s/1D5hs8Z8tVs9IEXLXwPIrqA) | Easy
-desk2-rpy | 47.70 | 5.52 | [ROS bag](http://gofile.me/3REyI/lLaYCERxm)| 提取码: 936f [链接](https://pan.baidu.com/s/1ywyE9gRqBydQf1xslJfFng) | Easy
-desk2-static | 33.37 | 3.99| [ROS bag](http://gofile.me/3REyI/Ph9SFPwB2)| 提取码: uyu2 [链接](https://pan.baidu.com/s/1e3mQdkdLQ6maMt2wIMsLAQ) | Easy
-desk2-xyz | 44.96 | 3.99|[ROS bag](http://gofile.me/3REyI/kN4lCw1Rc)| 提取码: 9jt8 [链接](https://pan.baidu.com/s/1l4WQ3Pp1IXQLyntHzS85ug) | Easy
-desk1-circle-person | 33.81 | 4.07 | [ROS bag](http://gofile.me/3REyI/kplECtUMo)| 提取码: bhgk [链接](https://pan.baidu.com/s/1kwfJoD_rowuJJwrXA-3NcQ) | Easy
-desk1-halfsphere-person | 76.97  | 9.37| [ROS bag](http://gofile.me/3REyI/cA0yfUnLd)| 提取码: i827 [链接](https://pan.baidu.com/s/1O8nVUQcXMTX6BdJFYoiPqQ) | Easy
-desk1-rpy-person | 60.09 | 7.10 | [ROS bag](http://gofile.me/3REyI/UVH9dyS6P)| 提取码: d2di [链接](https://pan.baidu.com/s/1_0SNWvMWEoFOmIhs59Tasg) | Easy
-desk1-rpy-person-slow | 59.53 | 6.93 |[ROS bag](http://gofile.me/3REyI/zfDZx30hz)| 提取码: queg [链接](https://pan.baidu.com/s/1lPgHpVdropFhxzd0hiMucQ) | Easy
-desk1-static-person | 19.97 | 2.14 | [ROS bag](http://gofile.me/3REyI/HUIivGkp0)| 提取码: j94s [链接](https://pan.baidu.com/s/18q0ukNwTTDojDzkk5N-TaQ) | Easy
-desk1-xyz-person| 51.16 | 6.23 | [ROS bag](http://gofile.me/3REyI/jAhTahEN4)| 提取码: 69ue [链接](https://pan.baidu.com/s/10mHosWzfCEqnSTd2tTmNRg) | Easy
-desk1-halfsphere-dy | 64.07 |7.28 | [ROS bag](http://gofile.me/3REyI/iXXNl3QFB)| 提取码: kfjj [链接](https://pan.baidu.com/s/1hQrc5oPevW3aALahjFQ4YQ) | Easy
-desk1-rpy-dy | 48.45 | 5.48 | [ROS bag](http://gofile.me/3REyI/r86csUhd9)| 提取码: gced [链接](https://pan.baidu.com/s/1ooc0NKylGw-n94OhIXGZPQ) | Easy
-desk1-static-dy | 24.92 | 2.81 | [ROS bag](http://gofile.me/3REyI/F8BLNAo1Q)| 提取码: s4ye [链接](https://pan.baidu.com/s/136gRHzqtChQOCZNyvlcrbQ) | Easy
-desk1-xyz-dy | 48.76 | 5.38 | [ROS bag](http://gofile.me/3REyI/pkjY6oRqA)| 提取码: 3axs [链接](https://pan.baidu.com/s/1SaskfehN43sPdsiYGfOYhg) | Easy
+Sequence Name | Duration(s) | Size(GB)  | link(Synology) | link(Baidu Pan）| link(Google Drive)|Difficulty
+------------ | ------------- | ------------- | ------------- | ------|------- | ------
+desk1-halfsphere | 68.34 | 5.18 | [ROS bag](http://gofile.me/3REyI/2i5Ftd4RJ) | 提取码: ztbz [链接](https://pan.baidu.com/s/1RdSZAqfG2uEXCcZoOGvzyA) | [Download](https://drive.google.com/file/d/1aH2vDYbGu6PE29JIgwCtiP9hgCaiBr2R/view?usp=sharing) | Easy
+desk1-rpy | 61.40 | 7.32 | [ROS bag](http://gofile.me/3REyI/5uH1tqgjy) | 提取码: myuc [链接](https://pan.baidu.com/s/1J13QTOwiKfvgmsQyAvBcTw) |[Download](https://drive.google.com/file/d/1A9IhQ39s-XmLRXWBVDRICvWKT0kgoNLF/view?usp=sharing) | Easy
+desk1-static | 25.28 | 3.03 | [ROS bag](http://gofile.me/3REyI/kHp4vRcmO)| 提取码: rm96 [链接](https://pan.baidu.com/s/1csVeoQXXPHALIgJ0Yw8x_g) |[Download](https://drive.google.com/file/d/1Vq368GUY7uEuX9YtvWhTFfBNg7GjXvFk/view?usp=sharing)| Easy
+desk1-xyz | 48.55 | 5.93 | [ROS bag](http://gofile.me/3REyI/YlQHZfX45)| 提取码: mpuk [链接](https://pan.baidu.com/s/18FbnK_qWJVDudngCgWqhaw) |[Download](https://drive.google.com/file/d/1ipQ3Kii7bPG4PKWl2mNoth8__ahMtLWF/view?usp=sharing)| Easy
+desk2-circle | 34.53 | 3.81 | [ROS bag](http://gofile.me/3REyI/KOdud2n2N)| 提取码: 2dq5 [链接](https://pan.baidu.com/s/1RWvY7-4HP5rdzP7irQoAyQ) |[Download](https://drive.google.com/file/d/196DvgrwPIduHjdQjU6xzEvVmFWtiIH2o/view?usp=sharing)| Easy
+desk2-halfsphere | 44.32 | 5.18 | [ROS bag](http://gofile.me/3REyI/ooDVJCWgr)| 提取码: 5c9m [链接](https://pan.baidu.com/s/1D5hs8Z8tVs9IEXLXwPIrqA) |[Download](https://drive.google.com/file/d/1GdHNtEllZvAKWlny3pm-lgrPfVpbC114/view?usp=sharing)| Easy
+desk2-rpy | 47.70 | 5.52 | [ROS bag](http://gofile.me/3REyI/lLaYCERxm)| 提取码: 936f [链接](https://pan.baidu.com/s/1ywyE9gRqBydQf1xslJfFng) |[Download](https://drive.google.com/file/d/1TPiR3Wr1UDpZqjSSDc1vfIp31L3mfGFo/view?usp=sharing)| Easy
+desk2-static | 33.37 | 3.99| [ROS bag](http://gofile.me/3REyI/Ph9SFPwB2)| 提取码: uyu2 [链接](https://pan.baidu.com/s/1e3mQdkdLQ6maMt2wIMsLAQ) |[Download](https://drive.google.com/file/d/14WDS_vbnuHAz_eLsptJD6vNijNWvq4yu/view?usp=sharing)| Easy
+desk2-xyz | 44.96 | 3.99|[ROS bag](http://gofile.me/3REyI/kN4lCw1Rc)| 提取码: 9jt8 [链接](https://pan.baidu.com/s/1l4WQ3Pp1IXQLyntHzS85ug) | [Download](https://drive.google.com/file/d/16HsuZOQFtvMKSVJ_6gBxFYAc9UpIrc_W/view?usp=sharing)|  Easy
+desk1-circle-person | 33.81 | 4.07 | [ROS bag](http://gofile.me/3REyI/kplECtUMo)| 提取码: bhgk [链接](https://pan.baidu.com/s/1kwfJoD_rowuJJwrXA-3NcQ) |[Download](https://drive.google.com/file/d/1hCEpbQAWVuV53hkBTVcOpwMs4Z7jJ1cv/view?usp=sharing)| Easy
+desk1-halfsphere-person | 76.97  | 9.37| [ROS bag](http://gofile.me/3REyI/cA0yfUnLd)| 提取码: i827 [链接](https://pan.baidu.com/s/1O8nVUQcXMTX6BdJFYoiPqQ) |[Download](https://drive.google.com/file/d/1Qhq71gRrjL35m44VV4TuProC74jXsNZA/view?usp=sharing)| Easy
+desk1-rpy-person | 60.09 | 7.10 | [ROS bag](http://gofile.me/3REyI/UVH9dyS6P)| 提取码: d2di [链接](https://pan.baidu.com/s/1_0SNWvMWEoFOmIhs59Tasg) |[Download](https://drive.google.com/file/d/1U8KUmtbBDg0OzLLiHKgYdw5--JBnof1M/view?usp=sharing)| Easy
+desk1-rpy-person-slow | 59.53 | 6.93 |[ROS bag](http://gofile.me/3REyI/zfDZx30hz)| 提取码: queg [链接](https://pan.baidu.com/s/1lPgHpVdropFhxzd0hiMucQ) |[Download](https://drive.google.com/file/d/1LdJh3sR-Fqt3Jm2fqGJz59Gl99Mt0RAl/view?usp=sharing)| Easy
+desk1-static-person | 19.97 | 2.14 | [ROS bag](http://gofile.me/3REyI/HUIivGkp0)| 提取码: j94s [链接](https://pan.baidu.com/s/18q0ukNwTTDojDzkk5N-TaQ) |[Download](https://drive.google.com/file/d/1NijBupzl1FfF_qRj9o4vymvsPbuJ132N/view?usp=sharing)| Easy
+desk1-xyz-person| 51.16 | 6.23 | [ROS bag](http://gofile.me/3REyI/jAhTahEN4)| 提取码: 69ue [链接](https://pan.baidu.com/s/10mHosWzfCEqnSTd2tTmNRg) |[Download](https://drive.google.com/file/d/19Ws9ndbD1qsYdjb1BMBiJU8pquPmOixM/view?usp=sharing)| Easy
+desk1-halfsphere-dy | 64.07 |7.28 | [ROS bag](http://gofile.me/3REyI/iXXNl3QFB)| 提取码: kfjj [链接](https://pan.baidu.com/s/1hQrc5oPevW3aALahjFQ4YQ) |[Download](https://drive.google.com/file/d/1cfPCM5aJjrQ7vV8XYbdNWU337ZPEAonL/view?usp=sharing)| Easy
+desk1-rpy-dy | 48.45 | 5.48 | [ROS bag](http://gofile.me/3REyI/r86csUhd9)| 提取码: gced [链接](https://pan.baidu.com/s/1ooc0NKylGw-n94OhIXGZPQ) |[Download](https://drive.google.com/file/d/1jm9yt2gu9QurpZLJLDjRPqRBFzbWBFSE/view?usp=sharing)| Easy
+desk1-static-dy | 24.92 | 2.81 | [ROS bag](http://gofile.me/3REyI/F8BLNAo1Q)| 提取码: s4ye [链接](https://pan.baidu.com/s/136gRHzqtChQOCZNyvlcrbQ) |[Download](https://drive.google.com/file/d/13m36bZX5yvQQGsRIJQhy5QxsMiK9Yge5/view?usp=sharing)| Easy
+desk1-xyz-dy | 48.76 | 5.38 | [ROS bag](http://gofile.me/3REyI/pkjY6oRqA)| 提取码: 3axs [链接](https://pan.baidu.com/s/1SaskfehN43sPdsiYGfOYhg) |[Download](https://drive.google.com/file/d/1_78AvVnbt8cBR9ru2EnpchJ5_nminDX5/view?usp=sharing)| Easy
 
 ### The environment under varing illumination
 
-Sequence Name | Duration(s)| Size(GB) | link(Synology) | link（Baidu Pan）| Difficulty
------------- | --------|----- | -----|----------- | ------
+Sequence Name | Duration(s)| Size(GB) | link(Synology) | link(Baidu Pan) | Difficulty
+------------ | --------|----- | -----|------|----- | ------
 desk1-rpy-ic | 62.84 | 7.20 | [ROS bag](http://gofile.me/3REyI/oBOEOZFDI)| 提取码: vat8 [链接](https://pan.baidu.com/s/1kd-pplif5so9ToHlF-9oEg) | Hard
 desk1-halfsphere-ic | 73.58 | 8.48 | [ROS bag](http://gofile.me/3REyI/BMh1xxImI)| 提取码: 8vti [链接](https://pan.baidu.com/s/1LoJLm3905GdjMqQwKHxdFQ) | Hard
 desk1-static-ic | 27.67 | 3.05 | [ROS bag](http://gofile.me/3REyI/tboURe3jz)| 提取码: tf7k [链接](https://pan.baidu.com/s/1jR5z3_J2BTzqPsvQb8X2og) | Hard
@@ -99,16 +101,16 @@ desk1-xyz-ic-person| 54.19 | 6.19 | [ROS bag](http://gofile.me/3REyI/6HZwfz5dy)|
 
 ### The environment under dim illumination
 
-Sequence Name | Duration(s) | Size(GB)| link(Synology) | link（Baidu Pan）| Difficulty
------------- | -------|------|----|-------|-------
-desk1-halfsphere-dim| 69.23 | 7.12 | [ROS bag](http://gofile.me/3REyI/ziCAII1EQ)| 提取码: tcmr [链接](https://pan.baidu.com/s/1DQ3RptLC59NvD3giDZ-sxw) | Medium
-desk1-halfsphere-dim2| 67.89 | 6.98 | [ROS bag](http://gofile.me/3REyI/Eajzct1Oi)| 提取码: h36m [链接](https://pan.baidu.com/s/1wrQAeZqRpYavUO6tz2EsrA)| Medium
-desk1-rpy-dim| 48.01 | 4.92 |[ROS bag](http://gofile.me/3REyI/XouKWswWr)| 提取码: cqs3 [链接](https://pan.baidu.com/s/1L7zi7nxjhPsLGeYEgsmw-w)| Medium
-desk1-rpy-dim2| 52.57 | 5.39 | [ROS bag](http://gofile.me/3REyI/SGB4ej54e)| 提取码: 4sch [链接](https://pan.baidu.com/s/1XMbKmjMHH7ZaH90OOzeL0A)| Medium
-desk1-static-dim| 21.53 | 2.18 | [ROS bag](http://gofile.me/3REyI/PFXXJHRoE)| 提取码: vsgf [链接](https://pan.baidu.com/s/1b92QhEeKpOVx9mdN6dwfRQ)| Medium
-desk1-static-dim2| 19.42 | 1.97 | [ROS bag](http://gofile.me/3REyI/4DugILwLQ)| 提取码: yp49 [链接](https://pan.baidu.com/s/1uzMaNTRXVu-Q5dupXswXUg)| Medium
-desk1-xyz-dim| 53.69 | 5.51 | [ROS bag](http://gofile.me/3REyI/KuX7XLNFQ)| 提取码: uqir [链接](https://pan.baidu.com/s/15PB0MPjzNGRSIl1qMo4itA)| Medium
-desk1-xyz-dim2| 53.81 | 5.52 | [ROS bag](http://gofile.me/3REyI/N8srviLGn)| 提取码: djkd [链接](https://pan.baidu.com/s/1-EuP3azpj6k_1XxjI980CA)| Medium
+Sequence Name | Duration(s) | Size(GB)| link(Synology) | link(Baidu Pan)| link(Google Drive)| Difficulty
+------------ | -------|------|----|---|----|-------
+desk1-halfsphere-dim| 69.23 | 7.12 | [ROS bag](http://gofile.me/3REyI/ziCAII1EQ)| 提取码: tcmr [链接](https://pan.baidu.com/s/1DQ3RptLC59NvD3giDZ-sxw) |[Download](https://drive.google.com/file/d/1uv-8UkJGATEkL8Ustph2MxxI0Rqoj-sz/view?usp=sharing)| Medium
+desk1-halfsphere-dim2| 67.89 | 6.98 | [ROS bag](http://gofile.me/3REyI/Eajzct1Oi)| 提取码: h36m [链接](https://pan.baidu.com/s/1wrQAeZqRpYavUO6tz2EsrA)|[Download](https://drive.google.com/file/d/1wLY3845qg5xcnrdTpFPFifjzWGtR0d-2/view?usp=sharing)| Medium
+desk1-rpy-dim| 48.01 | 4.92 |[ROS bag](http://gofile.me/3REyI/XouKWswWr)| 提取码: cqs3 [链接](https://pan.baidu.com/s/1L7zi7nxjhPsLGeYEgsmw-w)|[Download](https://drive.google.com/file/d/1k0wZ1gHWO_O2BhpzzP8dp_mWgro5yuEH/view?usp=sharing)| Medium
+desk1-rpy-dim2| 52.57 | 5.39 | [ROS bag](http://gofile.me/3REyI/SGB4ej54e)| 提取码: 4sch [链接](https://pan.baidu.com/s/1XMbKmjMHH7ZaH90OOzeL0A)|[Download](https://drive.google.com/file/d/1rH7Hw3fIHhHL3kDJhCjIrEspDtoWEl5Z/view?usp=sharing)| Medium
+desk1-static-dim| 21.53 | 2.18 | [ROS bag](http://gofile.me/3REyI/PFXXJHRoE)| 提取码: vsgf [链接](https://pan.baidu.com/s/1b92QhEeKpOVx9mdN6dwfRQ)|[Download](https://drive.google.com/file/d/17xafOR7lbK44TUr7ECvxO4YjnQ_PLMNo/view?usp=sharing)| Medium
+desk1-static-dim2| 19.42 | 1.97 | [ROS bag](http://gofile.me/3REyI/4DugILwLQ)| 提取码: yp49 [链接](https://pan.baidu.com/s/1uzMaNTRXVu-Q5dupXswXUg)|[Download](https://drive.google.com/file/d/1sgFwOZPhbir59c4rSSMUDGfW9S2jziTK/view?usp=sharing)| Medium
+desk1-xyz-dim| 53.69 | 5.51 | [ROS bag](http://gofile.me/3REyI/KuX7XLNFQ)| 提取码: uqir [链接](https://pan.baidu.com/s/15PB0MPjzNGRSIl1qMo4itA)| [Download](https://drive.google.com/file/d/1cx5_u_dqpk1fCibsNM-vTBRO27OqE7aM/view?usp=sharing)|Medium
+desk1-xyz-dim2| 53.81 | 5.52 | [ROS bag](http://gofile.me/3REyI/N8srviLGn)| 提取码: djkd [链接](https://pan.baidu.com/s/1-EuP3azpj6k_1XxjI980CA)|[Download](https://drive.google.com/file/d/1eeG_c99jSVnkr9DVG-5CjuASH4eJupn1/view?usp=sharing)| Medium
 
 ### The complex environment
 
