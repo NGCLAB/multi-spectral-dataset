@@ -1,14 +1,14 @@
 ## Calibration Data
 
-[Download link（Synology）](http://gofile.me/3REyI/kUsHfzy4h)
-
 [Download link（Baidu Pan）](https://pan.baidu.com/s/1DSh0r_CxN8FoRVxf-V5uUg)(pyue)
+
+[Download link (Google Drive)](https://drive.google.com/drive/folders/1SfSF41MrJh7cKeeh61qrQMLVDtbV3iuQ?usp=sharing)
 
 ## Calibration files
 
-[Download link（Synology）](http://gofile.me/3REyI/GfYCexfS3)
-
 [Download link（Baidu Pan）](https://pan.baidu.com/s/1t1ViINDmI8Mv3KVICzXNRQ)(r8vq)
+
+[Download link (Google Drive)](https://drive.google.com/drive/folders/1S9shyW0WFQfJXNxqcogNuur8WhuqQpOI?usp=sharing)
 
 
 ## Multi-spectral calibration board
