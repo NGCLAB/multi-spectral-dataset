@@ -111,7 +111,7 @@ desk1-rpy-dim2| 52.57 | 5.39 | 提取码: 4sch [链接](https://pan.baidu.com/s/
 desk1-static-dim| 21.53 | 2.18 | 提取码: vsgf [链接](https://pan.baidu.com/s/1b92QhEeKpOVx9mdN6dwfRQ)|[Download](https://drive.google.com/file/d/17xafOR7lbK44TUr7ECvxO4YjnQ_PLMNo/view?usp=sharing)| Medium
 desk1-static-dim2| 19.42 | 1.97 | 提取码: yp49 [链接](https://pan.baidu.com/s/1uzMaNTRXVu-Q5dupXswXUg)|[Download](https://drive.google.com/file/d/1sgFwOZPhbir59c4rSSMUDGfW9S2jziTK/view?usp=sharing)| Medium
 desk1-xyz-dim| 53.69 | 5.51 | 提取码: uqir [链接](https://pan.baidu.com/s/15PB0MPjzNGRSIl1qMo4itA)| [Download](https://drive.google.com/file/d/1cx5_u_dqpk1fCibsNM-vTBRO27OqE7aM/view?usp=sharing)|Medium
-desk1-xyz-dim2| 53.81 | 5.52 )| 提取码: djkd [链接](https://pan.baidu.com/s/1-EuP3azpj6k_1XxjI980CA)|[Download](https://drive.google.com/file/d/1eeG_c99jSVnkr9DVG-5CjuASH4eJupn1/view?usp=sharing)| Medium
+desk1-xyz-dim2| 53.81 | 5.52| 提取码: djkd [链接](https://pan.baidu.com/s/1-EuP3azpj6k_1XxjI980CA)|[Download](https://drive.google.com/file/d/1eeG_c99jSVnkr9DVG-5CjuASH4eJupn1/view?usp=sharing)| Medium
 
 ### The complex environment
 
