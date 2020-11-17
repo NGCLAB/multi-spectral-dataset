@@ -55,8 +55,6 @@ A example ([Github Page](https://github.com/weichnn/bag_extractor)) of how to ex
 
 ## Download link
 
-We are trying our best to upload the data to Google drive.
-
 ### The environment under bright illumination
 
 Sequence Name | Duration(s) | Size(GB)  | link(Baidu Pan）| link(Google Drive)|Difficulty
@@ -122,10 +120,10 @@ magistrale-23-day2 | 27.89 | [ROS bag](http://gofile.me/3REyI/aCGULn8GO)| 提取
 magistrale-23-night1 | 24.71 |[ROS bag](http://gofile.me/3REyI/IQfOq10R6)| 提取码: hgf5 [链接](https://pan.baidu.com/s/1iEKKmHAbIfJqyQq9OSdHiA)|[Download](https://drive.google.com/file/d/1KotrbDvvpm4GjQ0FnixQIRI9sUHXaQPN/view?usp=sharing)| Crazy
 magistrale-23-night2 | 27.91 | [ROS bag](http://gofile.me/3REyI/n5C1mv0FA)| 提取码: r16u [链接](https://pan.baidu.com/s/1glYupnZT-gZfyhqBo1HcHg)|[Download](https://drive.google.com/file/d/15C-G-FEg1o80h6cnQvcmXqKnTwmC9cna/view?usp=sharing)| Crazy
 magistrale-24-night1 | 33.45 | [ROS bag](http://gofile.me/3REyI/Zb4Tz3zcH)| 提取码: 4v3f [链接](https://pan.baidu.com/s/1t_hAaeN7ynaN_SLkG_SnUA)|[Download](https://drive.google.com/file/d/1ez2kYOnV1qYvGsVGhzXS33JW6nMz7cAs/view?usp=sharing)| Crazy
-magistrale-24-night2 | 35.09 | [ROS bag](http://gofile.me/3REyI/WNtF5g3Mx)| 提取码: uq7k [链接](https://pan.baidu.com/s/1yAJ1iP5GXIZVHjI-9xEWRQ)| | Crazy
-magistrale-24-night3 | 35.54 | [ROS bag](http://gofile.me/3REyI/1tm1Zc3XC)| 提取码: p9wk [链接](https://pan.baidu.com/s/1jM114cUS9x80zXUKwvqLmQ)| | Crazy
-magistrale-lift-23-night | 15.64 | [ROS bag](http://gofile.me/3REyI/kdswzdGMn)| 提取码: 5muf [链接](https://pan.baidu.com/s/1Ppc2k1U8Vl7PEDHUr67LEw)| |Crazy
+magistrale-24-night2 | 35.09 | [ROS bag](http://gofile.me/3REyI/WNtF5g3Mx)| 提取码: uq7k [链接](https://pan.baidu.com/s/1yAJ1iP5GXIZVHjI-9xEWRQ)| [Download](https://drive.google.com/file/d/1Dz_NMXXLPTIZ_LyFXGnoTfHh-4gKgX0V/view?usp=sharing) | Crazy
+magistrale-24-night3 | 35.54 | [ROS bag](http://gofile.me/3REyI/1tm1Zc3XC)| 提取码: p9wk [链接](https://pan.baidu.com/s/1jM114cUS9x80zXUKwvqLmQ)| [Download](https://drive.google.com/file/d/19ARAzWoGS4L9I7gfIXdxAR_3u19ZBHZl/view?usp=sharing) | Crazy
+magistrale-lift-23-night | 15.64 | [ROS bag](http://gofile.me/3REyI/kdswzdGMn)| 提取码: 5muf [链接](https://pan.baidu.com/s/1Ppc2k1U8Vl7PEDHUr67LEw)| [Download](https://drive.google.com/file/d/15mmPZusdIt_v0lmma7FC8fvXNqNW1L1n/view?usp=sharing) |Crazy
 magistrale-lift-24-night | 23.35 | [ROS bag](http://gofile.me/3REyI/AvNHt2cXz)| 提取码: ksqz [链接](https://pan.baidu.com/s/1HRhO7cjcEev0iftiqaG8QA)| [Download](https://drive.google.com/file/d/1Hlgmjzs5ZGbXgdX5vzLRJuLoES0uqd0A/view?usp=sharing) | Crazy
 magistrale-lift-234-night | 29.42 | [ROS bag](http://gofile.me/3REyI/X7KQhAb70)| 提取码: uxut [链接](https://pan.baidu.com/s/1IJGrIv6n8j6IpqopN8LIbw)| [Download](https://drive.google.com/file/d/1B_hUS_n5mOKdcsHHI1fTDQvn5b6Mt5fv/view?usp=sharing) | Crazy
-outdoor-night1 | 60.05 | [ROS bag](http://gofile.me/3REyI/6YBPy9fnN)| 提取码: jyej [链接](https://pan.baidu.com/s/1Bu3-H87_Bd97Dcazb4todw)|| Crazy
-outdoor-night2 | 61.25 | [ROS bag](http://gofile.me/3REyI/LDHS4vGRf)| 提取码: s12u [链接](https://pan.baidu.com/s/1PXDGJlVvwfKlpUIO5sDWEQ)|| Crazy
+outdoor-night1 | 60.05 | [ROS bag](http://gofile.me/3REyI/6YBPy9fnN)| 提取码: jyej [链接](https://pan.baidu.com/s/1Bu3-H87_Bd97Dcazb4todw)| [Download](https://drive.google.com/file/d/1OgqQoBivzs_YPMirGehbb0-bZGVF0jmK/view?usp=sharing) | Crazy
+outdoor-night2 | 61.25 | [ROS bag](http://gofile.me/3REyI/LDHS4vGRf)| 提取码: s12u [链接](https://pan.baidu.com/s/1PXDGJlVvwfKlpUIO5sDWEQ)| [Download](https://drive.google.com/file/d/1hKGghVjd0irlkPbfI1K3mfsP9hrwP5nG/view?usp=sharing) | Crazy
