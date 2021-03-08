@@ -14,9 +14,9 @@ The multi-spectral dataset is provided for evaluating multi-spectral motion esti
 
 All sensors are calibrated carefully for higher accuracy.
 
-## Download
+## Data
 
-Data: [click here](data.md)
+Sequences: [click here](data.md)
 
 Calibration: [click here](calibration.md)
 
