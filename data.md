@@ -38,7 +38,7 @@ camera
 - **/kinect2/qhd/image_color_rect (sensor_msgs/Image)**: Rectified color images from Kinect2
 - **/kinect2/qhd/image_depth_rect (sensor_msgs/Image)**: Rectified depth images from Kinect2
 - **/kinect2/sd/image_ir_rect (sensor_msgs/Image)**: Rectified near infrared (NIR) images from Kinect2
-- **/imu/data (sensor_msgs/Imu)**: IMU data
+- **/imu/data (sensor_msgs/Imu)**: IMU data (Only for challenging sequences)
 - **/vrpn_client_node/RigidBody/pose (geometry_msgs/PoseStamped)**: raw poses from the motion capture system
 
 ### New ROS msg
