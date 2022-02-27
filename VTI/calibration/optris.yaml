@@ -1,0 +1,35 @@
+%YAML:1.0
+
+#common parameters
+image_topic: "/optris/thermal_image"
+
+#camera calibration 
+model_type: PINHOLE
+camera_name: camera
+image_width: 640
+image_height: 480
+distortion_parameters:
+   k1: -0.2657
+   k2: 0.2012
+   p1: 0
+   p2: 0
+projection_parameters:
+   fx: 1080.217977934177
+   fy: 1084.536663020825
+   cx: 321.7683850015323
+   cy: 259.3221494111710
+
+#Rotation from camera frame to imu frame, imu^R_cam
+extrinsicRotation: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [0.99985032, -0.00923253, 0.01463228,
+           0.01434213, -0.03074719, -0.99942429, 
+           0.00967711, 0.99948455, -0.03061017 ]
+#Translation from camera frame to imu frame, imu^T_cam
+extrinsicTranslation: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: d
+   data: [-0.115, -0.01, 0.045]

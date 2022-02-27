@@ -1,0 +1,34 @@
+%YAML:1.0
+
+#common parameters
+image_topic: "/camera/image_raw"
+#camera calibration 
+model_type: PINHOLE
+camera_name: camera
+image_width: 640
+image_height: 480
+distortion_parameters:
+   k1: -0.128609129935355
+   k2: 0.193202233206988
+   p1: 0
+   p2: 0
+projection_parameters:
+   fx: 841.54982132
+   fy: 843.2498246
+   cx: 423.6718105808
+   cy: 270.951880042
+
+#Rotation from camera frame to imu frame, imu^R_cam
+extrinsicRotation: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [0.99985032, -0.00923253, 0.01463228,
+           0.01434213, -0.03074719, -0.99942429, 
+           0.00967711, 0.99948455, -0.03061017 ]
+#Translation from camera frame to imu frame, imu^T_cam
+extrinsicTranslation: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: d
+   data: [-0.02643998,-0.06031053, 0.04885499]
