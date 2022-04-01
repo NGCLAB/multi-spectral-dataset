@@ -14,6 +14,10 @@ The multi-spectral dataset is provided for evaluating multi-spectral motion esti
 
 All sensors are calibrated carefully for higher accuracy.
 
+Related paper: 
+
+* Dai, W., Zhang, Y., Chen, S., Sun, D. and Kong, D., 2021, May. A Multi-spectral Dataset for Evaluating Motion Estimation Systems. In 2021 IEEE International Conference on Robotics and Automation (ICRA) (pp. 5560-5566). IEEE.
+
 ## Data
 
 Sequences: [click here](data.md)
