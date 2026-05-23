@@ -13,7 +13,7 @@
 
 ## Multi-spectral calibration board
 
-A unique chessboard with the surface made of different materials can provide distinctive textures in both spectra.
+A unique chessboard with the surface made of different materials can provide distinctive textures in both spectra (square size: 8 cm).
 
 <div align="center">
 <img src="images/ms_calb_board.png" width="500" />
